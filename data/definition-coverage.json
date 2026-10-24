@@ -1,0 +1,1895 @@
+{
+  "available": 961,
+  "missing": [
+    {
+      "code": "98618",
+      "name": "Rare refraction anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "98621",
+      "name": "Rare hyperopia and astigmatism",
+      "type": "Category"
+    },
+    {
+      "code": "98622",
+      "name": "Syndromic hyperopia",
+      "type": "Category"
+    },
+    {
+      "code": "98658",
+      "name": "Color-vision disease",
+      "type": "Category"
+    },
+    {
+      "code": "101950",
+      "name": "Rare eye tumor",
+      "type": "Category"
+    },
+    {
+      "code": "357027",
+      "name": "Hereditary retinoblastoma",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "357034",
+      "name": "Non-hereditary retinoblastoma",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "363700",
+      "name": "Neurofibromatosis type 1 due to NF1 mutation or intragenic deletion",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "658590",
+      "name": "Eyelid sebaceous carcinoma",
+      "type": "Disease"
+    },
+    {
+      "code": "659744",
+      "name": "Ocular surface squamous neoplasia",
+      "type": "Disease"
+    },
+    {
+      "code": "716198",
+      "name": "Rare paraneoplastic choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "674968",
+      "name": "Bilateral diffuse uveal melanocytic proliferation disease",
+      "type": "Disease"
+    },
+    {
+      "code": "716204",
+      "name": "Rare neoplastic choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716207",
+      "name": "Rare benign neoplastic choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "674965",
+      "name": "Choroidal osteoma",
+      "type": "Disease"
+    },
+    {
+      "code": "716210",
+      "name": "Rare malignant neoplastic choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "714046",
+      "name": "Primary choroidal lymphoma",
+      "type": "Disease"
+    },
+    {
+      "code": "723203",
+      "name": "Choroidal and ciliary body melanoma",
+      "type": "Disease"
+    },
+    {
+      "code": "715862",
+      "name": "Melanocytoma of the optic disc and optic nerve",
+      "type": "Disease"
+    },
+    {
+      "code": "723195",
+      "name": "Iris melanoma",
+      "type": "Disease"
+    },
+    {
+      "code": "520814",
+      "name": "Rare disorder of the visual organs",
+      "type": "Category"
+    },
+    {
+      "code": "98715",
+      "name": "Uveitis",
+      "type": "Category"
+    },
+    {
+      "code": "280886",
+      "name": "Anterior uveitis",
+      "type": "Category"
+    },
+    {
+      "code": "280914",
+      "name": "Isolated idiopathic anterior uveitis",
+      "type": "Disease"
+    },
+    {
+      "code": "280926",
+      "name": "Systemic diseases with anterior uveitis",
+      "type": "Category"
+    },
+    {
+      "code": "306648",
+      "name": "Non-infectious anterior uveitis",
+      "type": "Category"
+    },
+    {
+      "code": "280892",
+      "name": "Posterior uveitis",
+      "type": "Category"
+    },
+    {
+      "code": "90061",
+      "name": "Non-infectious posterior uveitis",
+      "type": "Category"
+    },
+    {
+      "code": "714154",
+      "name": "Idiopathic multifocal choroiditis",
+      "type": "Disease"
+    },
+    {
+      "code": "714164",
+      "name": "Acute posterior multifocal placoid pigment epitheliopathy",
+      "type": "Disease"
+    },
+    {
+      "code": "280930",
+      "name": "Systemic diseases with posterior uveitis",
+      "type": "Category"
+    },
+    {
+      "code": "280898",
+      "name": "Panuveitis",
+      "type": "Category"
+    },
+    {
+      "code": "280933",
+      "name": "Systemic diseases with panuveitis",
+      "type": "Category"
+    },
+    {
+      "code": "140653",
+      "name": "Neuro-ophthalmological disease",
+      "type": "Category"
+    },
+    {
+      "code": "519341",
+      "name": "Rare brainstem or cerebellar disorder with ophthalmic involvement as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "98687",
+      "name": "Supranuclear eye movement disorder",
+      "type": "Category"
+    },
+    {
+      "code": "216972",
+      "name": "Niemann-Pick disease type C, severe perinatal form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "216975",
+      "name": "Niemann-Pick disease type C, severe early infantile neurologic onset",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "216978",
+      "name": "Niemann-Pick disease type C, late infantile neurologic onset",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "216981",
+      "name": "Niemann-Pick disease type C, juvenile neurologic onset",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "216986",
+      "name": "Niemann-Pick disease type C, adult neurologic onset",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "519343",
+      "name": "Rare ophthalmic disorder with cortical involvement",
+      "type": "Category"
+    },
+    {
+      "code": "98688",
+      "name": "Oculomotor apraxia",
+      "type": "Category"
+    },
+    {
+      "code": "519349",
+      "name": "Rare ophthalmic disorder with cranial nerve involvement",
+      "type": "Category"
+    },
+    {
+      "code": "98685",
+      "name": "Rare oculomotor nerve disorder",
+      "type": "Category"
+    },
+    {
+      "code": "519351",
+      "name": "Rare optic nerve disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98671",
+      "name": "Hereditary optic neuropathy",
+      "type": "Category"
+    },
+    {
+      "code": "98672",
+      "name": "Autosomal dominant optic atrophy",
+      "type": "Clinical group"
+    },
+    {
+      "code": "441434",
+      "name": "Syndromic hereditary optic neuropathy",
+      "type": "Category"
+    },
+    {
+      "code": "206436",
+      "name": "Infantile Krabbe disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "206443",
+      "name": "Late-infantile/juvenile Krabbe disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "206448",
+      "name": "Adult Krabbe disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "572543",
+      "name": "RFVT2-related riboflavin transporter deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "572550",
+      "name": "RFVT3-related riboflavin transporter deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "447896",
+      "name": "Tremor-ataxia-central hypomyelination syndrome",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "497623",
+      "name": "C12ORF65-related combined oxidative phosphorylation defect",
+      "type": "Clinical group"
+    },
+    {
+      "code": "137905",
+      "name": "Syndromic optic nerve hypoplasia",
+      "type": "Category"
+    },
+    {
+      "code": "499047",
+      "name": "Autoimmune/inflammatory optic neuropathy",
+      "type": "Clinical group"
+    },
+    {
+      "code": "592850",
+      "name": "Neuromyelitis optica spectrum disorder with anti-AQP4 antibodies",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "592856",
+      "name": "Neuromyelitis optica spectrum disorder with anti-MOG antibodies",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "592869",
+      "name": "Neuromyelitis optica spectrum disorder without anti-MOG and without anti-AQP4 antibodies",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "592894",
+      "name": "Acute disseminated encephalomyelitis with anti-MOG antibodies",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "592900",
+      "name": "Acute disseminated encephalomyelitis without anti-MOG antibodies",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "659626",
+      "name": "Single isolated optic neuritis",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "659634",
+      "name": "Relapsing isolated optic neuritis",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "519333",
+      "name": "Congenital optic disc excavation",
+      "type": "Category"
+    },
+    {
+      "code": "519337",
+      "name": "Disorder with optic nerve compression",
+      "type": "Category"
+    },
+    {
+      "code": "519339",
+      "name": "Pseudopapilledema",
+      "type": "Category"
+    },
+    {
+      "code": "519345",
+      "name": "Rare disorder with optic disc malformation",
+      "type": "Category"
+    },
+    {
+      "code": "674947",
+      "name": "Diffuse unilateral subacute neuroretinitis",
+      "type": "Disease"
+    },
+    {
+      "code": "519353",
+      "name": "Rare trochlear nerve disorder",
+      "type": "Category"
+    },
+    {
+      "code": "519355",
+      "name": "Rare ocular motility/alignment disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98681",
+      "name": "Rare disorder with strabismus",
+      "type": "Category"
+    },
+    {
+      "code": "98683",
+      "name": "Syndromic disorder with strabismus",
+      "type": "Category"
+    },
+    {
+      "code": "481986",
+      "name": "Familial schizencephaly",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "485275",
+      "name": "Acquired schizencephaly",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "261638",
+      "name": "Okihiro syndrome due to 20q13 microdeletion",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "261647",
+      "name": "Okihiro syndrome due to a point mutation",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98684",
+      "name": "Craniostenosis with strabismus",
+      "type": "Category"
+    },
+    {
+      "code": "93258",
+      "name": "Pfeiffer syndrome type 1",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "93259",
+      "name": "Pfeiffer syndrome type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "93260",
+      "name": "Pfeiffer syndrome type 3",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "519347",
+      "name": "Rare neuromuscular disorder with ocular motility/alignment anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "589821",
+      "name": "Congenital-onset Steinert myotonic dystrophy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "589824",
+      "name": "Childhood-onset Steinert myotonic dystrophy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "589827",
+      "name": "Juvenile-onset Steinert myotonic dystrophy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "589830",
+      "name": "Adult-onset Steinert myotonic dystrophy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "589833",
+      "name": "Late-onset Steinert myotonic dystrophy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98913",
+      "name": "Postsynaptic congenital myasthenic syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716742",
+      "name": "Congenital myasthenic syndrome with kinetic defect",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716758",
+      "name": "Fast-channel congenital myasthenic syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716765",
+      "name": "Slow-channel congenital myasthenic syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716772",
+      "name": "Congenital myasthenic syndrome with kinetic defect due to reduced ion channel conductance",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716816",
+      "name": "Congenital myasthenic syndrome with primary acetylcholine receptor deficiency",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716825",
+      "name": "Congenital myasthenic syndrome due to defects in endplate development and maintenance",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716881",
+      "name": "Congenital myasthenic syndrome due to a sodium channel 1.4 defect",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "719914",
+      "name": "Congenital myasthenic syndrome due to defective nuclear membrane protein",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "719880",
+      "name": "Congenital myasthenic syndrome due to acetylcholine receptor clustering defect",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98914",
+      "name": "Presynaptic congenital myasthenic syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716889",
+      "name": "Congenital myasthenic syndrome due to defective axonal transport",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716893",
+      "name": "Congenital myasthenic syndrome due to defective synthesis or recycling of acetylcholine",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716899",
+      "name": "Congenital myasthenic syndrome due to defective synaptic vesicles exocytosis",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716903",
+      "name": "Autosomal recessive congenital myasthenic syndrome due to defective synaptic vesicles exocytosis",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716908",
+      "name": "Autosomal dominant congenital myasthenic syndrome due to defective synaptic vesicles exocytosis",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "719921",
+      "name": "Congenital myasthenic syndrome due to defective structural molecule at the neuromuscular junction",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98915",
+      "name": "Synaptic congenital myasthenic syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716913",
+      "name": "Congenital myasthenic syndrome associated with ubiquitously expressed proteins",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "353327",
+      "name": "Congenital myasthenic syndrome with glycosylation defect",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "716917",
+      "name": "Congenital myasthenic syndrome with mitochondrial defect",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "520820",
+      "name": "Progressive external ophthalmoplegia",
+      "type": "Category"
+    },
+    {
+      "code": "663",
+      "name": "Mitochondrial DNA-related progressive external ophthalmoplegia",
+      "type": "Disease"
+    },
+    {
+      "code": "519266",
+      "name": "Rare disorder of the ocular adnexa",
+      "type": "Category"
+    },
+    {
+      "code": "98560",
+      "name": "Rare palpebral disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98561",
+      "name": "Congenital malformation of the eyelid",
+      "type": "Category"
+    },
+    {
+      "code": "98562",
+      "name": "Cryptophthalmia",
+      "type": "Category"
+    },
+    {
+      "code": "98948",
+      "name": "Congenital symblepharon",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98949",
+      "name": "Complete cryptophthalmia",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98950",
+      "name": "Partial cryptophthalmia",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98563",
+      "name": "Microblepharon-ablephara syndrome",
+      "type": "Clinical group"
+    },
+    {
+      "code": "583602",
+      "name": "Neu-Laxova syndrome due to phosphoserine aminotransferase deficiency",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "583607",
+      "name": "Neu-Laxova syndrome due to 3-phosphoglycerate dehydrogenase deficiency",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "583612",
+      "name": "Neu-Laxova syndrome due to 3-phosphoserine phosphatase deficiency",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98564",
+      "name": "Eyelid border anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "98565",
+      "name": "Syndromic ankyloblepharon filiforme adnatum",
+      "type": "Category"
+    },
+    {
+      "code": "294963",
+      "name": "Popliteal pterygium syndrome",
+      "type": "Clinical group"
+    },
+    {
+      "code": "98566",
+      "name": "Syndromic eyelid coloboma",
+      "type": "Category"
+    },
+    {
+      "code": "98567",
+      "name": "Rare eyelid malposition disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98574",
+      "name": "Syndromic epicanthus",
+      "type": "Category"
+    },
+    {
+      "code": "99226",
+      "name": "Monosomy X syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "99228",
+      "name": "Mosaic monosomy X syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "99413",
+      "name": "Turner syndrome due to structural X chromosome anomalies",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98575",
+      "name": "Syndromic telecanthus",
+      "type": "Category"
+    },
+    {
+      "code": "572354",
+      "name": "Blepharophimosis-ptosis-epicanthus inversus syndrome type 1",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "572361",
+      "name": "Blepharophimosis-ptosis-epicanthus inversus syndrome type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98576",
+      "name": "Syndromic outer canthal malposition",
+      "type": "Category"
+    },
+    {
+      "code": "98578",
+      "name": "Rare disorder with ptosis",
+      "type": "Category"
+    },
+    {
+      "code": "101104",
+      "name": "Marin-Amat syndrome",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700160",
+      "name": "ADNP-related blepharophimosis-intellectual disability syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "720321",
+      "name": "Developmental delay-blepharophimosis-telecanthus-facial dysmorphism-intellectual disability syndrome",
+      "type": "Malformation syndrome"
+    },
+    {
+      "code": "519268",
+      "name": "Rare disorder with ectropion",
+      "type": "Category"
+    },
+    {
+      "code": "98570",
+      "name": "Congenital ectropion",
+      "type": "Category"
+    },
+    {
+      "code": "98571",
+      "name": "Secondary ectropion",
+      "type": "Category"
+    },
+    {
+      "code": "281097",
+      "name": "Autosomal recessive congenital ichthyosis",
+      "type": "Clinical group"
+    },
+    {
+      "code": "519270",
+      "name": "Rare disorder with entropion",
+      "type": "Category"
+    },
+    {
+      "code": "98594",
+      "name": "Rare eyebrow/eyelash disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98602",
+      "name": "Rare disorder of the lacrimal apparatus",
+      "type": "Category"
+    },
+    {
+      "code": "98604",
+      "name": "Congenital alacrima",
+      "type": "Category"
+    },
+    {
+      "code": "181",
+      "name": "X-linked hypohidrotic ectodermal dysplasia",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "248",
+      "name": "Autosomal recessive hypohidrotic ectodermal dysplasia",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "1810",
+      "name": "Autosomal dominant hypohidrotic ectodermal dysplasia",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98605",
+      "name": "Lacrimal drainage system anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "519274",
+      "name": "Syndromic lacrimal system disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98609",
+      "name": "EEC syndrome and related disorders",
+      "type": "Category"
+    },
+    {
+      "code": "519264",
+      "name": "Inflammatory/autoimmune disorder involving the lacrimal system",
+      "type": "Category"
+    },
+    {
+      "code": "519272",
+      "name": "Structural developmental eye defect",
+      "type": "Category"
+    },
+    {
+      "code": "98555",
+      "name": "Microphthalmia-anophthalmia-coloboma",
+      "type": "Category"
+    },
+    {
+      "code": "730721",
+      "name": "Isolated partial colobomatous microphthalmia",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "730322",
+      "name": "Isolated anophthalmia",
+      "type": "Morphological anomaly"
+    },
+    {
+      "code": "202948",
+      "name": "Syndromic microphthalmia-anophthalmia-coloboma",
+      "type": "Category"
+    },
+    {
+      "code": "689829",
+      "name": "Microphthalmia-motor delay-language delay-brain anomalies-diaphragmatic hernia syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "729761",
+      "name": "Sandestig-Stefanova syndrome",
+      "type": "Malformation syndrome"
+    },
+    {
+      "code": "519284",
+      "name": "Rare disorder of the anterior segment of the eye",
+      "type": "Category"
+    },
+    {
+      "code": "88632",
+      "name": "Anterior segment developmental anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "98634",
+      "name": "Anterior segment developmental anomaly without extraocular manifestations",
+      "type": "Category"
+    },
+    {
+      "code": "519276",
+      "name": "Anterior segment developmental anomaly with extraocular manifestations",
+      "type": "Category"
+    },
+    {
+      "code": "261600",
+      "name": "Alagille syndrome due to 20p12 microdeletion",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "261619",
+      "name": "Alagille syndrome due to a JAG1 point mutation",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "261629",
+      "name": "Alagille syndrome due to a NOTCH2 point mutation",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98557",
+      "name": "Syndromic aniridia",
+      "type": "Category"
+    },
+    {
+      "code": "98610",
+      "name": "Rare disorder with conjunctival involvement as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "519280",
+      "name": "Rare conjunctivitis",
+      "type": "Category"
+    },
+    {
+      "code": "98639",
+      "name": "Rare lens disease",
+      "type": "Category"
+    },
+    {
+      "code": "98640",
+      "name": "Rare disorder with lens opacification",
+      "type": "Category"
+    },
+    {
+      "code": "98992",
+      "name": "Early-onset partial cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98984",
+      "name": "Pulverulent cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98988",
+      "name": "Early-onset anterior polar cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98990",
+      "name": "Coralliform cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98993",
+      "name": "Early-onset posterior polar cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98995",
+      "name": "Early-onset zonular cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98985",
+      "name": "Early-onset sutural cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98991",
+      "name": "Early-onset nuclear cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "441452",
+      "name": "Early-onset lamellar cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "441447",
+      "name": "Early-onset posterior subcapsular cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98994",
+      "name": "Total early-onset cataract",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98641",
+      "name": "Syndromic cataract",
+      "type": "Category"
+    },
+    {
+      "code": "1239",
+      "name": "Behr syndrome",
+      "type": "Malformation syndrome"
+    },
+    {
+      "code": "90153",
+      "name": "Mandibuloacral dysplasia with type A lipodystrophy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "90154",
+      "name": "Mandibuloacral dysplasia with type B lipodystrophy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "317",
+      "name": "Erythrokeratodermia variabilis",
+      "type": "Disease"
+    },
+    {
+      "code": "98642",
+      "name": "Chromosomal anomaly with cataract",
+      "type": "Category"
+    },
+    {
+      "code": "1707",
+      "name": "Distal duplication 15q syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "314588",
+      "name": "Distal triplication 15q syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98644",
+      "name": "Metabolic disease with cataract",
+      "type": "Category"
+    },
+    {
+      "code": "309282",
+      "name": "Alpha-mannosidosis, infantile form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309288",
+      "name": "Alpha-mannosidosis, adult form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "308473",
+      "name": "Erythrocyte galactose epimerase deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "308487",
+      "name": "Generalized galactose epimerase deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "79269",
+      "name": "Sanfilippo syndrome type A",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "79270",
+      "name": "Sanfilippo syndrome type B",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "79271",
+      "name": "Sanfilippo syndrome type C",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "79272",
+      "name": "Sanfilippo syndrome type D",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "293633",
+      "name": "PYCR1-related De Barsy syndrome",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98646",
+      "name": "Renal disease with cataract",
+      "type": "Category"
+    },
+    {
+      "code": "88917",
+      "name": "X-linked Alport syndrome",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "88918",
+      "name": "Autosomal dominant Alport syndrome",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "88919",
+      "name": "Autosomal recessive Alport syndrome",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "653722",
+      "name": "Digenic Alport syndrome",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98648",
+      "name": "Musculoskeletal disease with cataract",
+      "type": "Category"
+    },
+    {
+      "code": "309789",
+      "name": "Rhizomelic chondrodysplasia punctata type 1",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "309796",
+      "name": "Rhizomelic chondrodysplasia punctata type 2",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "309803",
+      "name": "Rhizomelic chondrodysplasia punctata type 3",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "468717",
+      "name": "Rhizomelic chondrodysplasia punctata type 5",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "90653",
+      "name": "Stickler syndrome type 1",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "90654",
+      "name": "Stickler syndrome type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98649",
+      "name": "Dentocutaneous disease with cataract",
+      "type": "Category"
+    },
+    {
+      "code": "715635",
+      "name": "Rothmund-Thomson syndrome type 4",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "715640",
+      "name": "Rothmund-Thomson syndrome type 3",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "98650",
+      "name": "Craniofacial anomaly with cataract",
+      "type": "Category"
+    },
+    {
+      "code": "662184",
+      "name": "Congenital muscular dystrophy-cataract-intellectual disability syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "726677",
+      "name": "Global developmental delay-bilateral cataract-cerebellar atrophy-movement disorder syndrome",
+      "type": "Malformation syndrome"
+    },
+    {
+      "code": "98652",
+      "name": "Lens size anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "519294",
+      "name": "Syndromic microspherophakia",
+      "type": "Category"
+    },
+    {
+      "code": "98653",
+      "name": "Lens position anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "519292",
+      "name": "Syndromic ectopia lentis",
+      "type": "Category"
+    },
+    {
+      "code": "284963",
+      "name": "Marfan syndrome type 1",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "284973",
+      "name": "Marfan syndrome type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "99731",
+      "name": "Isolated sulfite oxidase deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "99732",
+      "name": "Sulfite oxidase deficiency due to molybdenum cofactor deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "308386",
+      "name": "Sulfite oxidase deficiency due to molybdenum cofactor deficiency type A",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "308393",
+      "name": "Sulfite oxidase deficiency due to molybdenum cofactor deficiency type B",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "308400",
+      "name": "Sulfite oxidase deficiency due to molybdenum cofactor deficiency type C",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "98655",
+      "name": "Lens shape anomaly",
+      "type": "Category"
+    },
+    {
+      "code": "353277",
+      "name": "Rubinstein-Taybi syndrome due to CREBBP mutations",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "353281",
+      "name": "Rubinstein-Taybi syndrome due to 16p13.3 microdeletion",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "353284",
+      "name": "Rubinstein-Taybi syndrome due to EP300 haploinsufficiency",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "519282",
+      "name": "Rare corneal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98635",
+      "name": "Corneodysgenesis",
+      "type": "Category"
+    },
+    {
+      "code": "519288",
+      "name": "Rare disorder with corneal involvement as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "98628",
+      "name": "Syndromic corneal dystrophy",
+      "type": "Category"
+    },
+    {
+      "code": "98623",
+      "name": "Syndromic keratoconus",
+      "type": "Category"
+    },
+    {
+      "code": "519290",
+      "name": "Rare inflammatory/autoimmune corneal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "519278",
+      "name": "Infective keratitis",
+      "type": "Category"
+    },
+    {
+      "code": "684305",
+      "name": "Neurooculocardiogenitourinary syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "519286",
+      "name": "Rare disorder of the pupil",
+      "type": "Category"
+    },
+    {
+      "code": "519298",
+      "name": "Rare scleral disorder",
+      "type": "Category"
+    },
+    {
+      "code": "519296",
+      "name": "Rare disorder with pigmented sclera",
+      "type": "Category"
+    },
+    {
+      "code": "96182",
+      "name": "Silver-Russell syndrome due to maternal uniparental disomy of chromosome 7",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "231137",
+      "name": "Silver-Russell syndrome due to 7p11.2p13 microduplication",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "231140",
+      "name": "Silver-Russell syndrome due to an imprinting defect of 11p15",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "231144",
+      "name": "Silver-Russell syndrome due to 11p15 microduplication",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "231147",
+      "name": "Silver-Russell syndrome due to maternal uniparental disomy of chromosome 11",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "397590",
+      "name": "Silver-Russell syndrome due to a point mutation",
+      "type": "Etiological subtype"
+    },
+    {
+      "code": "648559",
+      "name": "Rare scleritis",
+      "type": "Clinical group"
+    },
+    {
+      "code": "648665",
+      "name": "Infectious scleritis",
+      "type": "Disease"
+    },
+    {
+      "code": "519311",
+      "name": "Rare disorder of the posterior segment of the eye",
+      "type": "Category"
+    },
+    {
+      "code": "519309",
+      "name": "Rare choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716195",
+      "name": "Rare inflammatory choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "714160",
+      "name": "Presumed ocular histoplasmosis syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "716201",
+      "name": "Rare vascular choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "714138",
+      "name": "Circumscribed choroidal hemangioma",
+      "type": "Disease"
+    },
+    {
+      "code": "716213",
+      "name": "Rare isolated developmental choroidal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "674943",
+      "name": "Isolated angioid streaks",
+      "type": "Disease"
+    },
+    {
+      "code": "674958",
+      "name": "Stellate multiform amelanotic choroidopathy",
+      "type": "Disease"
+    },
+    {
+      "code": "519315",
+      "name": "Rare retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "98668",
+      "name": "Vitreoretinopathy",
+      "type": "Category"
+    },
+    {
+      "code": "716435",
+      "name": "Rare non-progressive vitreoretinopathy",
+      "type": "Category"
+    },
+    {
+      "code": "716438",
+      "name": "Rare progressive vitreoretinopathy",
+      "type": "Category"
+    },
+    {
+      "code": "716441",
+      "name": "Rare isolated progressive vitreoretinopathy",
+      "type": "Category"
+    },
+    {
+      "code": "716446",
+      "name": "Rare disorder with progressive vitreoretinopathy disorder as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "519313",
+      "name": "Rare macular disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716413",
+      "name": "Rare non-progressive predominantly macular disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716419",
+      "name": "Rare isolated non-progressive predominantly macular disorder",
+      "type": "Category"
+    },
+    {
+      "code": "674935",
+      "name": "Torpedo Maculopathy",
+      "type": "Disease"
+    },
+    {
+      "code": "714101",
+      "name": "Acute idiopathic maculopathy",
+      "type": "Disease"
+    },
+    {
+      "code": "719766",
+      "name": "Photic retinopathy",
+      "type": "Disease"
+    },
+    {
+      "code": "716422",
+      "name": "Rare disorder with non-progressive predominantly macular disorder as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "716416",
+      "name": "Rare progressive predominantly macular disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716427",
+      "name": "Rare disorder with progressive predominantly macular disorder as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "716432",
+      "name": "Rare isolated progressive predominantly macular disorder",
+      "type": "Category"
+    },
+    {
+      "code": "63454",
+      "name": "Pattern dystrophy",
+      "type": "Category"
+    },
+    {
+      "code": "482092",
+      "name": "Rare idiopathic macular telangiectasia",
+      "type": "Category"
+    },
+    {
+      "code": "714150",
+      "name": "Stellate non-hereditary idiopathic foveomacular retinoschisis",
+      "type": "Disease"
+    },
+    {
+      "code": "715855",
+      "name": "Acute exudative polymorphous vitelliform maculopathy",
+      "type": "Disease"
+    },
+    {
+      "code": "715845",
+      "name": "Idiopathic acute exudative polymorphous vitelliform maculopathy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "715850",
+      "name": "Paraneoplastic acute exudative polymorphous vitelliform maculopathy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "519317",
+      "name": "Rare retinal vasculopathy",
+      "type": "Category"
+    },
+    {
+      "code": "716450",
+      "name": "Rare non-progressive retinal vasculopathy",
+      "type": "Category"
+    },
+    {
+      "code": "648684",
+      "name": "Central retinal artery occlusion",
+      "type": "Disease"
+    },
+    {
+      "code": "674924",
+      "name": "Isolated retinal racemose hemangioma",
+      "type": "Disease"
+    },
+    {
+      "code": "674930",
+      "name": "Perifoveal exudative vascular anomalous complex",
+      "type": "Disease"
+    },
+    {
+      "code": "716455",
+      "name": "Rare progressive retinal vasculopathy",
+      "type": "Category"
+    },
+    {
+      "code": "716459",
+      "name": "Rare disorder with progressive retinal vasculopathy as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "716466",
+      "name": "Rare isolated progressive retinal vasculopathy",
+      "type": "Category"
+    },
+    {
+      "code": "716290",
+      "name": "Rare predominantly chorioretinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716293",
+      "name": "Rare non-progressive predominantly chorioretinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716296",
+      "name": "Rare isolated non-progressive predominantly chorioretinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "674953",
+      "name": "Multiple evanescent white dot syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "716299",
+      "name": "Rare disorder with non-progressive predominantly chorioretinal disorder as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "716304",
+      "name": "Rare progressive predominantly chorioretinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716342",
+      "name": "Rare disorder with progressive predominantly chorioretinal disorder as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "716348",
+      "name": "Rare isolated progressive predominantly chorioretinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716358",
+      "name": "Rare generalized retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716361",
+      "name": "Rare progressive generalized retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716405",
+      "name": "Rare disorder with progressive generalized retinal disorder as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "93598",
+      "name": "Primary hyperoxaluria type 1",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "93599",
+      "name": "Primary hyperoxaluria type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "93600",
+      "name": "Primary hyperoxaluria type 3",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "93399",
+      "name": "Juvenile sialidosis type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "93400",
+      "name": "Congenital sialidosis type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "653709",
+      "name": "Cone rod dystrophy-short stature syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "309155",
+      "name": "Sandhoff disease, infantile form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309162",
+      "name": "Sandhoff disease, juvenile form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309169",
+      "name": "Sandhoff disease, adult form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "90321",
+      "name": "Cockayne syndrome type 1",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "90322",
+      "name": "Cockayne syndrome type 2",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "90324",
+      "name": "Cockayne syndrome type 3",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699718",
+      "name": "Infantile CLN1 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699734",
+      "name": "Late infantile CLN1 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699739",
+      "name": "Juvenile CLN1 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699745",
+      "name": "Adult CLN1 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700487",
+      "name": "Congenital CLN10 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700492",
+      "name": "Late infantile CLN10 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700497",
+      "name": "Juvenile CLN10 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699780",
+      "name": "Juvenile CLN3 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699796",
+      "name": "Protracted juvenile CLN3 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699751",
+      "name": "Infantile CLN2 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699761",
+      "name": "Late infantile CLN2 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699769",
+      "name": "Juvenile CLN2 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "1947",
+      "name": "Northern epilepsy",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700484",
+      "name": "Late infantile CLN8 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699802",
+      "name": "Late infantile CLN5 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699807",
+      "name": "Juvenile CLN5 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "699812",
+      "name": "Adult CLN5 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700467",
+      "name": "Late infantile CLN6 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700472",
+      "name": "Juvenile CLN6 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "700477",
+      "name": "Adult CLN6 disease",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309178",
+      "name": "Tay-Sachs disease, infantile form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309185",
+      "name": "Tay-Sachs disease, juvenile form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309192",
+      "name": "Tay-Sachs disease, adult form",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "716410",
+      "name": "Rare isolated progressive generalized retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "730376",
+      "name": "Rare acquired isolated progressive generalized retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "714109",
+      "name": "Ocular siderosis",
+      "type": "Disease"
+    },
+    {
+      "code": "695631",
+      "name": "Primary vitreoretinal large B-cell lymphoma",
+      "type": "Disease"
+    },
+    {
+      "code": "717324",
+      "name": "Rare genetic isolated progressive generalized retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716364",
+      "name": "Rare non-progressive generalized retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "716367",
+      "name": "Rare isolated non-progressive generalized retinal disorder",
+      "type": "Category"
+    },
+    {
+      "code": "714090",
+      "name": "Congenital stationary night blindness, Schubert-Bornschein type",
+      "type": "Disease"
+    },
+    {
+      "code": "714070",
+      "name": "Incomplete congenital stationary night blindness, Schubert-Bornschein type",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "714079",
+      "name": "Complete congenital stationary night blindness, Schubert-Bornschein type",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "714096",
+      "name": "Congenital stationary night blindness, Riggs type",
+      "type": "Disease"
+    },
+    {
+      "code": "714041",
+      "name": "Straatsma syndrome",
+      "type": "Disease"
+    },
+    {
+      "code": "716393",
+      "name": "Rare disorder with non-progressive generalized retinal disorder as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "519329",
+      "name": "Rare disorder involving multiple structures of the eye",
+      "type": "Category"
+    },
+    {
+      "code": "98706",
+      "name": "Oculocutaneous or ocular albinism",
+      "type": "Category"
+    },
+    {
+      "code": "284804",
+      "name": "Ocular albinism",
+      "type": "Clinical group"
+    },
+    {
+      "code": "284811",
+      "name": "Syndromic oculocutaneous albinism",
+      "type": "Category"
+    },
+    {
+      "code": "79476",
+      "name": "Griscelli syndrome type 1",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "79478",
+      "name": "Griscelli syndrome type 3",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "664500",
+      "name": "Hermansky-Pudlak syndrome due to AP3B1 deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "664511",
+      "name": "Early-onset severe Hermansky-Pudlak syndrome with hearing loss, due to AP3D1 deficiency",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "279888",
+      "name": "Acute endophthalmitis",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "279891",
+      "name": "Chronic endophthalmitis",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "523000",
+      "name": "Pediatric-onset glaucoma",
+      "type": "Category"
+    },
+    {
+      "code": "156005",
+      "name": "Primary early-onset glaucoma",
+      "type": "Clinical group"
+    },
+    {
+      "code": "519331",
+      "name": "Secondary early-onset glaucoma",
+      "type": "Category"
+    },
+    {
+      "code": "98631",
+      "name": "Congenital malformation of the eye with glaucoma as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "98638",
+      "name": "Rare disease with glaucoma as a major feature",
+      "type": "Category"
+    },
+    {
+      "code": "79483",
+      "name": "Phakomatosis cesioflammea",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "79484",
+      "name": "Phakomatosis cesiomarmorata",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "79485",
+      "name": "Phakomatosis spilorosea",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "79213",
+      "name": "Mucopolysaccharidosis",
+      "type": "Category"
+    },
+    {
+      "code": "276212",
+      "name": "Mucopolysaccharidosis type 6, rapidly progressing",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "276223",
+      "name": "Mucopolysaccharidosis type 6, slowly progressing",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309297",
+      "name": "Mucopolysaccharidosis type 4A",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "309310",
+      "name": "Mucopolysaccharidosis type 4B",
+      "type": "Clinical subtype"
+    },
+    {
+      "code": "662216",
+      "name": "Mucopolysaccharidosis type 10",
+      "type": "Disease"
+    },
+    {
+      "code": "636950",
+      "name": "Glaucomatocyclitic crisis disease",
+      "type": "Disease"
+    },
+    {
+      "code": "728633",
+      "name": "Idiopathic orbital inflammation syndrome",
+      "type": "Disease"
+    }
+  ]
+}

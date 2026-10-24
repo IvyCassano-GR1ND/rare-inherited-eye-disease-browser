@@ -1,0 +1,8 @@
+{
+  "name": "rare-inherited-eye-disease-browser",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Bilingual Orphanet ophthalmic classification browser with sourced definitions and clinical CSV import",
+  "scripts": {"build": "node scripts/build.mjs", "test": "node --test tests/*.test.cjs"},
+  "engines": {"node": ">=20"}
+}
